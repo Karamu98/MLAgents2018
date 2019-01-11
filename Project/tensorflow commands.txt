@@ -1,0 +1,10 @@
+mlagents-learn "D:\GameDev\PerforceProjects\Students\1608758\CT6007 - IRP\Project\config\trainer_config.yaml" --run-id=firstRun --train
+
+Run this command after activating mlagents in conda ("mlagents activate")
+
+====== Components
+
+"mlagents-learn" - runs the python file to "learn", no more detail is needed about this. It probably starts tensorflow
+the .yaml path - is where the configuration for hyperparameters should go
+"--run-id=<BrainName>" - is to name the model being generated
+"--train" - sets the mode to train, no more detail is needed about this, its probably an argument for "learn" to use

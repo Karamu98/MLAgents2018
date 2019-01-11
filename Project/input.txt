@@ -1,0 +1,21 @@
+1. Can see the target
+1a. Targets direction
+
+2. Ray perception
+
+3. Health
+
+4. Can see health
+4a. Distance to health
+
+5. ForwardDir
+
+
+OUTS
+1 Forward
+2. backwards
+3. Left
+4. Right
+5. TLeft
+6. TRight
+7. Shoot
